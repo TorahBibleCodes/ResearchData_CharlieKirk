@@ -2,7 +2,7 @@
 ResearchData_CharlieKirk
 
 CHARLIE KIRK BIBLE CODES SEARCH DATA RESULTS (FREE DOWNLOAD):
-https://github.com/TorahBibleCodes/ResearchData_CharlieKirk
+<br />https://github.com/TorahBibleCodes/ResearchData_CharlieKirk
 
 
 ELS MATCHES WITH MINIMUM POSITIVE (+) AND NEGATIVE (-) SKIP DISTANCES (d):
@@ -27,10 +27,10 @@ FIRST POSITIVE (+) AND NEGATIVE (-) ELS MATCHES:
 4. First Negative (-) ELS Match Instance for ELS Search Term "Charlie" - (n, d, k): (415, -84, 4); LetterID: (1, 1, 10, 18, 415); WordID:  (1, 1, 10, 4, 107)
 
 TORAH BIBLE CODES SEARCH PROGRAM (FREE DOWNLOAD - OPEN-SOURCE PYTHON):
-https://github.com/TorahBibleCodes/TorahBibleCodes
+<br />https://github.com/TorahBibleCodes/TorahBibleCodes
 
 GITHUB HOME PAGE:
-https://github.com/TorahBibleCodes
+<br />https://github.com/TorahBibleCodes
 
 Support your friendly, neighborhood TorahBibleCodes research scientist:
-https://www.givesendgo.com/TorahBibleCodes
+<br />https://www.givesendgo.com/TorahBibleCodes
