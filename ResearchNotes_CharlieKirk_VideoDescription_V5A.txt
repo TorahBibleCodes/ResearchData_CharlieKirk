@@ -1,0 +1,26 @@
+
+THIS TEXT AND/OR LINK TO TEXT & DATA WILL BE IN THE VIDEO DESCRIPTION
+
+When contemplating the concept of Equidistant Letter Sequences (ELSs), eventually one may observe and arrive to the idea that one could extrapolate the skip distances (d) of the a priori anchor terms, in both positive (+) and negative (-) directions, in search of longer phrases and text strings, e.g.:
+
+	1. “[a] Messiah (i.e. an anointed one)” (משיח) “Mashiaḥ”
+	2. "Kirk" (קירק)
+	3. "Charlie" (צרלי)
+	4. "[They] shot him" (ירו בו) "Yaru bo" 
+	
+Edwin R. Sherman (2004; 2005) was the first to conceptualize (and publish) this idea of extrapolated longer codes of phrases and sentences that are derived from an initial anchor search term. However, he only searched within the books of Isaiah and Ezekiel, and did not search within the Torah of exactly 304,805 letters, and he did not search for the central Jewish concept of "Messiah".
+
+In other words, it is conceivable that longer, more-statistically-improbable-to-find ELSs are to be found simply by taking the skip distance (d) of any ELS match instance, and extrapolating that text string in both directions by the absolute value (|d|) of that skip distance (d) in order to see if intelligible words, phrases, and/or sentences with relevant meaning(s) can be found.
+
+By extrapolating in both positive (+) and negative (-) directions, it is possible to find longer phrases and/or complete sentences as (d)-string ELS matches that are permutations of (and thus build upon) any anchor term, e.g. “[a] Messiah” (משיח) “Mashiaḥ”,1 if they exist in that (d)-string:
+
+	1. “My Messiah” (משיחי) “Meshiḥi”
+	2. “His Messiah” (משיחו) “Meshiḥo”
+	3. “The Messiah” (המשיח) “HaMashiaḥ”
+	4. “Who [is] My Messiah” (מי משיחי) “Mi Meshiḥi”
+	5. “Who [is] His Messiah” (מי משיחו) “Mi Meshiḥo”
+	6. “Who [is] the Messiah” (מי המשיח) “Mi HaMashiaḥ”, etc.
+	
+Thus a new aspect of Torah (Bible) Codes research can be unfolded: not only minimal skip distances (d), and not only groups and clusters, but also extrapolated “skip distance (d) text strings”: (d)-strings, and (d)-string ELS matches.
+
+It will be proposed here that this latter phenomenon of extrapolated “skip distance (d) text strings” (as discussed by Sherman (2004; 2005) that are then joined together to form (d)-strings – and within which are found (d)-string ELS matches – is a manifestation and expression of Rabbi Cordovero’s description: “1 Gate 30 [is] called the Gate of Joining [something together]. 2 The knowledge of secrets of our Holy Torah is by means of the joining [together of letters], and the gematrias, and the permutations, and the first-letter abbreviations, and final-letter abbreviations, and middle-letter abbreviations, and beginnings of verses, and ends of verses, and skipping of letters, and joining [together] of letters.” – (Pardes Rimonim, Gate 30:1-2).

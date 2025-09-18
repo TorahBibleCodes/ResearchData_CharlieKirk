@@ -1,0 +1,54 @@
+
+THIS TEXT AND/OR LINK TO TEXT & DATA WILL BE IN THE VIDEO DESCRIPTION
+
+The Hebrew term (ירו בו) "[They] shot him" is past tense.
+
+Within Numbers chapter 11, we see two (2) ELS matches for this term.
+
+	1. ELS match with skip distance (d) of every +22 letters.
+	2. ELS match with skip distance (d) of every +72 letters.
+
+For 2D Matrices, the laws of Cartesian 2D Algebra apply, including the formula:
+
+	y = mx + b
+
+Therefore, other than edge-case exceptions on either right or left side of the 2D Matrix helix, counting (extapolating) letters in any of the 8 directions is an equidistant letter sequence:  A column-width (x) of any integer number, e.g. 20 or 9, or 10, 18, 27, 30, 33, etc., allows one to potentially find ELSs visually in any linear direction:
+
+	1.) Up
+	2.) Down
+	3.) Right
+	4.) Left
+	5.) Diagonally Up Right
+	6.) Diagonally Down Right
+	7.) Diagonally Up Left
+	8.) Diagonally Down Left
+
+Remember: for 2D Matrices, the laws of Cartesian 2D Algebra apply, including the formula:
+
+	y = mx + b
+	
+By extrapolating this Hebrew term "Yaru bo" (ירו בו) "[They] shot him" in both directions, we can observe visually, as well as confirm mathematically, that a feasible, longer phrase message exists in this extrapolated "skip distance (d)-string":
+
+HEBREW PHRASE: (יער בוש כשיירו בו יען)
+
+ENGLISH TRANSLATION: "[He] will awaken a shame when [they] will shoot him; [he] will answer."
+
+ALT. ENGLISH TRANSLATION #1: "[He] will awaken a shame when [they] will shoot him - because [of this]."
+
+ALT. ENGLISH TRANSLATION #2: "A forest of shame, when [they] will shoot him, [he] will answer."
+
+ALT. ENGLISH TRANSLATION #3: "A forest of shame, when [they] will shoot him - because [of this]."
+
+The Hebrew term (יירו בו) "[They] will shoot him" is future tense of the same Hebrew term "Yaru bo" (ירו בו) "[They] shot him" in the past tense.
+
+As we can see, the Hebrew letter Yud (י) of the Hebrew term "[He] will awaken // [a] forest" (יער) "Ya'eer // Ya'ar" is separated from the Hebrew letter Ḥet (ח) of the ELS match (רצח) "[he] murdered; a murder" by a skip distance (d) of +22.
+
+Similarly, we can also extrapolate this ELS match (רצח) located at (n,d,k):(206826, -90, 3) to search for longer phrases:
+
+HEBREW PHRASE: (רצחנו)
+
+ENGLISH TRANSLATION: "[We] murdered."
+
+For 2D Matrices, the laws of Cartesian 2D Algebra apply, including the formula:
+
+	y = mx + b
